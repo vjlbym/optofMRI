@@ -1,0 +1,1 @@
+This is a repository containing codes for analysis associated with the manuscript by Decot, Namboodiri et al. from the labs of Dr. Garret Stuber and Dr. Ian Shih. Please start reading the code from the Decot, Namboodiri et al. DA evoked data analysis.ipynb file
